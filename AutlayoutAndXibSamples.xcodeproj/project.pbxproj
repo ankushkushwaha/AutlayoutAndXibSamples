@@ -64,8 +64,8 @@
 		ACF7475820EE093400E72276 /* AutlayoutAndXibSamples */ = {
 			isa = PBXGroup;
 			children = (
-				ACF7475920EE093400E72276 /* AppDelegate.swift */,
 				ACF7477620EE1E4100E72276 /* CustomXibCellTableViewController */,
+				ACF7475920EE093400E72276 /* AppDelegate.swift */,
 				ACF7475D20EE093400E72276 /* Main.storyboard */,
 				ACF7476020EE093600E72276 /* Assets.xcassets */,
 				ACF7476220EE093600E72276 /* LaunchScreen.storyboard */,
